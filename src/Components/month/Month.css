@@ -1,0 +1,16 @@
+.day {
+    background-color: aliceblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.empty {
+    background-color: cadetblue;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.month {
+    width: 1050px;
+    text-align: center;
+}
